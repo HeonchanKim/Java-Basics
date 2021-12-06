@@ -1,0 +1,11 @@
+package day02;
+// 입력기능을 내코드에 연결시켜줘
+import java.util.Scanner;
+public class Day02Input {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

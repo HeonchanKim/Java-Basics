@@ -1,0 +1,10 @@
+package day04;
+
+public class Operator {
+	public static void main(String[] args) {
+		int a = 10; //a 변수에 10 값 저장
+		int b = 3; //b 변수에 3 값 저장
+		System.out.println(a+b);
+		System.out.println(a-b);
+	}
+}

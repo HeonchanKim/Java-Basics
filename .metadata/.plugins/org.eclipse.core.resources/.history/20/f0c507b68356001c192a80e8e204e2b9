@@ -1,0 +1,10 @@
+package day02;
+
+public class Day02Ex {
+	public static void main(String[] args) {
+		System.out.print("문자열값");
+		System.out.print('A');
+		System.out.print(100);
+		System.out.print(3.14);
+	}
+}
