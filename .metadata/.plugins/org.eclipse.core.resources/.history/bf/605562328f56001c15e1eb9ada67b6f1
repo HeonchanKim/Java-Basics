@@ -1,7 +1,0 @@
-package day04;
-
-public class Inequlity_sign_operator {
-	public static void main(String[] args) {
-		
-	}
-}
